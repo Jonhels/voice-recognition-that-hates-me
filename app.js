@@ -15,15 +15,15 @@ const greetings = [
 
 const weather = [
     'weather is fine, maybe stick your fat head out the window and check, you dumbass',
-    'You need a fucking tan you white slut'
+    'You need a fucking tan *'
 ];
 
 const alvin = [
-    'Alvin is the biggest faggot on the earth',
-    'Gay',
+    'Alvin is the biggest * on the earth',
+    '*',
     'Alvin is a dog',
-    'woof woof bitch',
-    'woof woof Alvin is gay'
+    'woof woof *',
+    'woof woof Alvin is *'
 ]
 
 
